@@ -10,7 +10,7 @@ FFMPeg+Qemu: https://drive.google.com/file/d/1x6hoF7G-tSYxg8AFybggypLZgMGDNHfF
 
 
 
-Running the model
+Running the model:
 
 The model implementation code is under the ProRLearn folder. 
 
