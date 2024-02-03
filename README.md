@@ -2,11 +2,13 @@
 Enhancing Vulnerability Detection using Prompt-tuning via Reinforcement Learning
 
 Dataset
-To investigate the effectiveness of AMPLE, we adopt three vulnerability datasets from these paper:
+To investigate the effectiveness of ProRLearn, we adopt three vulnerability datasets from these papers:
 
-Reveal: https://drive.google.com/drive/folders/1KuIYgFcvWUXheDhT--cBALsfy1I4utOyF
+Reveal: It originates from two open-source projects: Debian and Chromium. This dataset contains around 2k vulnerable entries and 20k non-vulnerable entries, vulnerabilities account for 9.16%.
 
-FFMPeg+Qemu: https://drive.google.com/file/d/1x6hoF7G-tSYxg8AFybggypLZgMGDNHfF
+FFMPeg+Qemu: It is derived from two open-source C projects and comprises approximately 10k vulnerable entries and 12k non-vulnerable entries, vulnerabilities account for 45.02%
+
+Big-Vul: Fan et al. collected C/C++ functions from 348 open-source GitHub projects spanning from 2002 to 2019. This dataset contains approximately 10k vulnerable entries and 177k non-vulnerable entries, vulnerabilities account for 5.88%. 
 
 
 
